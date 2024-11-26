@@ -66,7 +66,7 @@ def main():
     image_paths = glob.glob(os.path.join(images_folder, "*.jpg"))  # You can adjust the pattern for other image types like *.png
     
     # Create a top-level "results" directory if it doesn't exist
-    results_dir = "results"
+    results_dir = "../results"
     if not os.path.exists(results_dir):
         os.makedirs(results_dir)
     
