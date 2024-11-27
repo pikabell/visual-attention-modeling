@@ -15,3 +15,7 @@ This project implements a computational model of visual attention based on the w
 - Image cropping based on saliency map
 - Image classification using ResNet
 
+
+<a target="_blank" href="https://colab.research.google.com/github/pikabell/visual-attention-modeling/blob/main/itii_koch.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
